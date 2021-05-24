@@ -13,7 +13,7 @@ Rafael Meccer - MUSIC CREATOR - https://web.facebook.com/fael.meccer
 Pedro Coelho - ART DESIGNER - https://web.facebook.com/KetsuiComic
 Kaio Eduardo - DEVELOPER - https://web.facebook.com/prandini.kaio/
 
-Twitch - For the programmation - Twitch.tv/khaiooliveira
+Twitch - For the programmation - Twitch.tv/o_prandini
 
 Follow the game and the creators on Facebook
 Follow me on my Twitch channel for programming videos
