@@ -12,6 +12,6 @@ Follow me on my Twitch channel for programming videos
 
 <div>
   <a href="https://github.com.br/prandini-kaio">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=prandini-kaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prandini-kaio&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api?username=prandini-kaio&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180cm" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prandini-kaio&layout=compact&langs_count=16&theme=merko"/>
 </div>
