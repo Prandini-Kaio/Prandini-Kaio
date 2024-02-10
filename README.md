@@ -1,6 +1,6 @@
 <h1>👋👋 Hello, I'm Kaio</h1>
 <p>
-I'm a beginner developer, looking for knowledge and individual and professional improvement. Follow me on my social media, and give me tips on how I can improve what you see. Thank you for coming here!</p>
+I'm a developer, looking for knowledge and personal development. Feel free to follow me on social media. Thank you for coming here, enjoy!</p>
   <div style="display: inline_block" align="center">
     <a href="https://www.linkedin.com/in/kaio-eduardo-aab7891ba/" target="_blank"><img align="center" src="https://img.shields.io/badge/Linkedin-21262D?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "mailto:prandini.kaio@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
