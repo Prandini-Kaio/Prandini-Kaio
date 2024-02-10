@@ -27,7 +27,3 @@ I'm a developer, looking for knowledge and personal development. Feel free to fo
     <a align="center" href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E85EA8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a align="center" href="https://twitter.com/FeelingOJ" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   </div>
-  
- ##
-  ![Snake animation](https://github.com/prandini-kaio/prandini-kaio/blob/output/github-contribution-grid-snake.svg)
- ##
