@@ -16,7 +16,7 @@
 ---
 
 # About Me
-I am a **Backend Developer with over 3 years of experience** and a **Computer Science student at PUC Minas (Poços De Caldas)**. My expertise lies in creating and maintaining robust APIs, managing databases, and designing scalable system architectures.
+I am a **Backend Developer with over hard experience** and a **Computer Science student at PUC Minas (Poços De Caldas)**. My expertise lies in creating and maintaining robust APIs, managing databases, and designing scalable system architectures.
 
 ## Technical Skills
 - **Languages:** Java, C#
